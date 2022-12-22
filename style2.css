@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0%;  
+    width:100%;
+    height:100vh;
+    background-color: thistle;
+    color: black;
+}
+.SignIn
+{
+    width: 300px;
+    background: fixed;
+    background-color: thistle;
+    padding: 60px;
+    margin: 8% auto 0;
+    text-align: center;
+    font-family: Courier, monospace;
+}
+
+.input
+{
+ border-radius: 20px;
+ padding: 10px;
+ margin: 10px ;
+ width: 100%;
+ border: 2px solid black;
+ outline: 0px;
+}
+.SignInButton
+{
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    border: 1 px solid black;
+    outline: 0 px;
+    color: black
+}
